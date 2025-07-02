@@ -1,1 +1,1 @@
-print("Hello World! I am testing PyCharm's Git integration.")
+print("I completed Lab 1!")
