@@ -1,1 +1,1 @@
-print("Hello World!")
+print("Hello World! I am testing PyCharm's Git integration.")
