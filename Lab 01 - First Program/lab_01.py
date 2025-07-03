@@ -1,1 +1,5 @@
-print("I completed Lab 1!")
+print("I completed Lab 1,\nand tried out some line breaks!")
+print("\tI also learned how to use indentation.")
+print("This lab pushes you to use at least four lines...")
+print("Mr. Craven sure is a hard taskmaster!")
+print("It drives me nuts that Windows uses backslashes in file paths, such as \"C:\\Program Files\\\"!")
