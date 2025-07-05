@@ -1,0 +1,58 @@
+What do computer languages use to store changing data?
+
+Variables
+
+What do we call the = symbol in Python?
+
+An assignment operator
+
+When we store text into a variable, what is another name for the text?
+
+A string
+
+What are the rules around creating a good variable name?
+
+All lowercase letters, words separated by underscores, name should be descriptive
+
+What is an expression?
+
+A mathematical equation
+
+Give an example for each of the seven operators.
+
+2 + 2 = 4
+2 - 1 = 1
+2 * 2 = 4
+2 / 2 = 1
+5 // 2 = 2
+2 ** 3 = 8
+5 % 2 = 1
+
+
+What is integer division? Explain.
+
+Division where the resulting number is rounded down to an integer.
+
+What is modulus?
+
+The modulus provides the remainder from division.
+
+Rewrite the expression v = 2(3.14r) so that it works in Python.
+
+v = 2 * (3.14 * r)
+
+What is the code to add 1 to x? (That is, actually change the value of x.)
+
+x = x + 1
+
+Show how to use the increment operator to add one to x.
+
+x += 1
+
+Give an example of printing a variable, including additional text that labels what it is.
+
+r = 3
+
+v = 2 * (3.14 * r)
+
+print("v =", v)

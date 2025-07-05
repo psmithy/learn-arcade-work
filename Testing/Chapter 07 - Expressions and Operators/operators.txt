@@ -1,0 +1,13 @@
++, Addition
+
+-, Subtraction
+
+*, Multiplication
+
+**, Exponentiation (raise to the power)
+
+/, Division
+
+//, Integer division (rounds down)
+
+%, Modulus (gives remainder of division)
